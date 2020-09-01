@@ -6,7 +6,15 @@ The goal of this project was to realize an autonomous flying indoor drone.
 
 ## Info
 
-This project uses [ROS](https://www.ros.org/) and [ROS-Flight](https://rosflight.org/) for sensing and drone control, [Gazebo](http://gazebosim.org/) for simulation, and [ROS-navigation](https://wiki.ros.org/navigation) with [ROS-hector-mapping](https://wiki.ros.org/hector_mapping) for SLAM. The Web-UI is realized with a [Simple Websocket Server](https://github.com/pikhovkin/simple-websocket-server) in python. The simulation works (only in a horizontal plane), tests on the real drone failed so far, due to problems with FCs, PID-settings and lack of time.
+The simulation works (only in a fixed horizontal plane), tests on the real drone failed so far, due to problems with FCs, PID-settings and lack of time.
+
+#### Software
+
+This project uses [ROS](https://www.ros.org/) and [ROS-Flight](https://rosflight.org/) for sensing and drone control, [Gazebo](http://gazebosim.org/) for simulation, and [ROS-navigation](https://wiki.ros.org/navigation) with [ROS-hector-mapping](https://wiki.ros.org/hector_mapping) for SLAM. The Web-UI is realized with a [Simple Websocket Server](https://github.com/pikhovkin/simple-websocket-server) in python.
+
+#### Hardware
+
+The drone was built with a [Naze32 (F1)](https://www.dronetrest.com/t/naze-32-revision-6-flight-controller-guide/1605) / [REVO (F4)](http://copterjungle.de/f4-revo-stm32f405-flight-controller/) as FC, a [NanoPi Neo Air](https://www.friendlyarm.com/index.php?route=product/product&product_id=151) for onboard computation. A [RPILIDAR A2](https://www.slamtec.com/en/Lidar/A2) is used for horizontal and two [HC-SR04](https://www.sparkfun.com/products/15569) ultrasonic sensors for vertical measurements.
 
 ## Structure
 
@@ -27,7 +35,7 @@ Please follow the instructions of each repository in the given order when trying
 
 ## Documentation
 
-Feel free to download the [documentation](project-documentation.pdf) and final [presentation](end-presentation.pdf) of this project.
+Feel free to download the [documentation](docs/project-documentation.pdf) and final [presentation](docs/end-presentation.pdf) of this project.
 
 ## Members
 
