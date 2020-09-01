@@ -39,7 +39,7 @@ Feel free to download the [documentation](docs/project-documentation.pdf) and fi
 
 ## Members
 
-This project was created by `Team IMP` (Rafael Mäuer et al.) in the course `AMS` (Special Aspects on Mobile Autonomous Systems) in the term 19/20 at TH Köln supervised by [Prof. Dr.-Ing. Chunrong Yuan](https://www.th-koeln.de/personen/chunrong.yuan/).
+This project was created by `Team IMP` in the course `AMS` (Special Aspects on Mobile Autonomous Systems) in the term 19/20 at `TH Köln` supervised by [Prof. Dr.-Ing. Chunrong Yuan](https://www.th-koeln.de/personen/chunrong.yuan/).
 
 ## License
 
