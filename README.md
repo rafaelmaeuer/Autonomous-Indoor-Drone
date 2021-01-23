@@ -43,9 +43,9 @@ This project was created by `Team IMP` in the course `AMS` (Special Aspects on M
 
 ## License
 
-BEERWARE 🍺  
-As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return
+🍺 BEERWARE 🍺  
+As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
 
 ## Related Projects
 
-Have a look at the Project `A Fully Autonomous Indoor Quadrotor` from UNI Freiburg. They have realized a similar project and published links and videos on their [website](http://ais.informatik.uni-freiburg.de/projects/quadrotor/) and detailed information in a [paper](http://www.slawomir.de/publications/grzonka12tro_quad/grzonka12tro_quad.pdf).
+Have a look at the Project `A Fully Autonomous Indoor Quadrotor` from UNI Freiburg. It is a similar project with links and videos on this [website](http://ais.informatik.uni-freiburg.de/projects/quadrotor/) and more detailed information in this [paper](http://www.slawomir.de/publications/grzonka12tro_quad/grzonka12tro_quad.pdf).
